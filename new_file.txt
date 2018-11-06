@@ -1,2 +1,3 @@
-Hi this is my first commit
+ Hi this is my first committhi
+ this is my merge file to commit
 
