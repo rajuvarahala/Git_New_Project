@@ -1,1 +1,1 @@
-this is my another file for commit
+this is my another file changed to another one
