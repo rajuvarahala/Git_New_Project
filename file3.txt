@@ -1,3 +1,4 @@
-this commit is for rebase concept
+This is for new change rebase
 This is another commit for rebase
 Hi this is my second rebase commit
+this changed
