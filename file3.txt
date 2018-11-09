@@ -1,4 +1,6 @@
 This is for new change rebase
-for please change this line for new mergeor new merge change------------>
+This is another change for merge----------->
+Hi this is my second rebase commit------------------>
+this changed
 Hi this is my second rebase commit------------------>
 this changed
