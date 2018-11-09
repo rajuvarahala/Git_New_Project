@@ -1,4 +1,4 @@
 This is for new change rebase
-for checki this is for new merge change------------>
+This is another change for merge----------->
 Hi this is my second rebase commit------------------>
 this changed
